@@ -1,3 +1,3 @@
 <?php
-echo "<p>Copyright &copy; 1999-" . date("Y") . " Polanowski</p>";
+echo "<p>Copyright &copy; " . date("Y") . " Polanowski</p>";
 ?>
